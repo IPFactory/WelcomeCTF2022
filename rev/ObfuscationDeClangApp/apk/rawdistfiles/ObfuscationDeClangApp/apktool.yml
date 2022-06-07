@@ -1,0 +1,40 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: ObfuscationDeClangApp.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/dexopt/baseline.prof
+- lib/arm64-v8a/libnative-lib.so
+- lib/armeabi-v7a/libnative-lib.so
+- lib/x86/libnative-lib.so
+- png
+- res/2-.webp
+- res/3c.webp
+- res/7E.webp
+- res/Vd.webp
+- res/YB.webp
+- res/co.webp
+- res/iN.webp
+- res/iP.webp
+- res/pY.webp
+- res/xC.webp
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '32'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  kotlin-tooling-metadata.json: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0-dirty
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

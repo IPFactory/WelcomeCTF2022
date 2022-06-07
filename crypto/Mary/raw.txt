@@ -1,0 +1,13 @@
+Congratulations to all new students on your enrollment.
+
+IPFactory is an information technology circle that exists at the Information Science College.
+
+We are a group of students who are interested in all kinds of computer technology, and we support each other in learning in our respective fields of interest, and we participate in study groups and outside events to improve our own technical skills.
+
+For more detailed information, please contact us at the upcoming Circle Introduction Day. Please also take a look at the "i-ポータル" on-campus website, which introduces our clubs.
+
+If you are interested in IPFactory, please feel free to contact us. (Twitter: @_ipfactory_)
+
+Now, if you are able to read this far, does this mean that you are able to decipher this encrypted text?
+
+flag is flag{Thank_you_very_much_for_participating_in_the_IPFactory_Welcome_CTF_2022}.

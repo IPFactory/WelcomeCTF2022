@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HardcodedApp</string>
+    <string name="tv_description">After entering the value of flag, tap the Check button.</string>
+    <string name="tv_flag">flag:</string>
+    <string name="bt_check">Check</string>
+    <string name="dg_title">Check</string>
+    <string name="dg_message_success">Congratulations!\nThis flag is the correct value.</string>
+    <string name="dg_message_incorrect">Oh…Try again.</string>
+</resources>

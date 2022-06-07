@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ObfuscationDeClangApp</string>
+    <string name="bt_check">Check</string>
+    <string name="dg_title">Check</string>
+    <string name="dg_message_success">Congratulations!\nThis flag is the correct value.</string>
+    <string name="dg_message_incorrect">Oh…Try again.</string>
+</resources>
