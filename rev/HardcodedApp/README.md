@@ -11,5 +11,4 @@
   - apkファイルのデコンパイル結果をGUIで見たい時はjadxがおすすめです
   - https://github.com/skylot/jadx
 - solve
-  - jadxを使ってデコンパイル結果を表示する
-  - manifestを元にflagを探す
+  - [作問者write-up](https://bony-bubble-326.notion.site/HardcodedApp-Rev-medium-300pt-6b129381cc8d4f3cb2de1287506cc6f7)
