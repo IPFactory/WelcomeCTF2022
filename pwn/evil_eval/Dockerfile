@@ -14,7 +14,7 @@ RUN chmod 700        /etc/init.sh
 RUN chmod 1733 /tmp /var/tmp /dev/shm
 
 ADD build/flag.txt   /home/pwn
-ADD rawdistfiles/chall      /home/pwn
+ADD distfiles/chall      /home/pwn
 RUN chmod 440 /home/pwn/flag.txt
 RUN chmod 550 /home/pwn/chall
 
