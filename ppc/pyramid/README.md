@@ -15,19 +15,3 @@ warmup
 # Hint
 
 なし
-
-# Solve
-
-```py
-ans = 0
-d = 1
-for i in range(300):
-    ans += d
-    d += 2
-
-print(ans)
-```
-
-```py
-print(300 * 300)
-```
